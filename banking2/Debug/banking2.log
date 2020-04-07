@@ -1,0 +1,4 @@
+﻿  Skipping... (no relevant changes detected)
+  banking2_1.cpp
+  Source.cpp
+c:\users\mohammed\desktop\semester 4\data stucture\project\banking2\banking2\source.cpp(10): error C2065: 'cin': undeclared identifier
